@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  font-family: Arial;
+  background-color: #EFE2BA;
+}
+
+img {
+  max-width: 50%;
+  display: block;
+  margin: auto;
+}
+
+#title {
+  font-size: 50px;
+}
+
+#tribute-link {
+  font-size: 25px;
+}
